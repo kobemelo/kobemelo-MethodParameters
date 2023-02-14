@@ -17,7 +17,7 @@ public class Lab {
      * return "hello"; | return String "hello";
      * return hello;   | return String hello;
      * return "polly"; | return String "polly";
-     * return polly;   | return String polly;
+     * return polly;   | return String polly; 
      * return "text";  | return String "text";
      * return text;    | return String text;
      * return;         | return String;
@@ -26,6 +26,6 @@ public class Lab {
      * @return text.
      */
     public String copy(String text){
-        return "return text please!";
+        return text;
     }
 }
